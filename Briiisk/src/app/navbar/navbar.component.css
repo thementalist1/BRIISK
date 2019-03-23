@@ -1,0 +1,32 @@
+.right_Positioning {
+    position: absolute;
+    /* bottom: 0; */
+    /* right: 100%; */
+    left:92%;
+    width: 45px;
+    /* border: 3px solid #73AD21; */
+  }
+  .right_Positioning1 {
+    position: absolute;
+    /* bottom: 0; */
+    /* right: 100%; */
+    left:85%;
+    width: 48px;
+    /* border: 3px solid #73AD21; */
+  }
+  .right_Positioning2 {
+    position: absolute;
+    /* bottom: 0; */
+    /* right: 100%; */
+    left:78%;
+    width: 48px;
+    /* border: 3px solid #73AD21; */
+  }
+  .right_Positioning3 {
+    position: absolute;
+    /* bottom: 0; */
+    /* right: 100%; */
+    left:71%;
+    width: 48px;
+    /* border: 3px solid #73AD21; */
+  }
